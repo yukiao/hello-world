@@ -1,6 +1,7 @@
 class Geek{
-  Public static void main(String[] args){
-    System.out.println("Contoh saja");
+  public static void main(String[] args){
+    for(int i=1; i<=4; i++){
+          System.out.println("Contoh saja");
+    }
   }
 }
-  
